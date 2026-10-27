@@ -80,6 +80,3 @@ DA-project1/
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-
-[Animesh Sharma](https://github.com/AnimeshSharma0425)
